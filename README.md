@@ -61,6 +61,25 @@ This project demonstrates the application of the following concepts:
 - Output formatting using `printf`
 
 ## Conclusion
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Student Details
+- Name: [NKWA ONUCHUKWU FIDELIS]
+- Programme: [COMPUTER SCIENCE]
+- Course Code: COS 201
+
+### Practical Exercise
+Created and executed my first Java programme.
+
+### File
+- week01/FirstProgram.java
+
+### Skills Practised
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
 The Java programs in this repository provide practical experience in solving simple computational problems using foundational programming concepts. They serve as a useful introduction to Java programming and help reinforce the basic principles taught in COS201 Programming I.
 
 ## Author
